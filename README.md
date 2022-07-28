@@ -1,8 +1,4 @@
-<div style="display: flex">
-    <div>Hello World</div>
-    <img src="./assets/images/globe.png" style="width: 2rem;margin-left: 1.5rem"/>
-</div>
-
+<img src="./assets/svg/hello-world.svg.svg" width="800" height="40" alt="Click to see the source">
 <div align="center">
 	<br>
 	<a href="https://github.com/lamltf/lamltf/blob/main/assets/svg/header.svg">
