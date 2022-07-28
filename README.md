@@ -1,7 +1,7 @@
 <div>
-     <div>
-        <span>Hello Word</span>
-        <span><img src="https://github.com/lamltf/lamltf/blob/main/assets/images/globe.png" style="width: 2rem"/></span>  
+     <div style="display: flex;align-items: center">
+        <div>Hello Word</div>
+        <div><img src="./assets/images/globe.png" style="width: 1.8rem;margin-left: 0.5rem"/></div>  
     </div>
     <div align="center">
 	    <br>
