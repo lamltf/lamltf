@@ -1,6 +1,6 @@
 <div style="display: flex">
     <div>Hello World</div>
-    <img src="./assets/images/globe.png" style="width: 5rem;margin-left: 1.5rem"/>
+    <img src="./assets/images/globe.png" style="width: 2rem;margin-left: 1.5rem"/>
 </div>
 
 <div align="center">
