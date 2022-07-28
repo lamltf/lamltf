@@ -1,8 +1,11 @@
 <div>
-    <img src="./assets/svg/hello-world.svg" width="800" height="40">
+     <div>
+        <span>Hello Word</span>
+        <span><img src="https://github.com/lamltf/lamltf/blob/main/assets/images/globe.png"/></span>  
+    </div>
     <div align="center">
 	    <br>
-	        <img src="./assets/svg/header.svg" width="800" height="400"">
+	        <img src="./assets/svg/header.svg" width="800" height="400" alt="Click to see the source">
 	    <br>
     </div>
 </div>
