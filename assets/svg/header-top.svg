@@ -14,8 +14,8 @@
                 'Segoe UI Emoji';
                 width:100%;
                 height: 380px;
+                margin:0;
                 background: #333333;
-                border-radius: 10px;
                 }
                 .rm-flex {
                 display: flex;
