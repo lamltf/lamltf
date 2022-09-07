@@ -12,7 +12,7 @@
                 sans-serif,
                 'Apple Color Emoji',
                 'Segoe UI Emoji';
-                margin: 0;
+                width:1000px;
                 height: 380px;
                 background: #333333;
                 border-radius: 10px;
