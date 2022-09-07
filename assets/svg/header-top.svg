@@ -50,22 +50,12 @@
                 .rm-white{
                 color:#ffffff;
                 }
-                #pentagon {
+                .pentagon-1 {
                 position: relative;
                 width: 54px;
-                box-sizing: content-box;
-                border-width: 50px 18px 0;
-                border-style: solid;
-                border-color: red transparent;
-                }
-                #pentagon:before {
-                content: "";
-                position: absolute;
-                height: 0;
-                width: 0;
-                border-width: 0 45px 35px;
-                border-style: solid;
-                border-color: transparent transparent red;
+                height: 54px;
+                background: #4169e1;
+                clip-path: polygon( 50% 0, 100% 38%, 81% 100%, 19% 100%, 0 38%);
                 }
 
             </style>
@@ -118,7 +108,7 @@
                         <div class="rm-white">}</div>
                     </div>
                 </div>
-                <div id="pentagon"></div>
+                <div class="pentagon-1"></div>
             </div>
         </div>
     </foreignObject>
