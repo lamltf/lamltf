@@ -30,8 +30,8 @@ software engineer from Viet Nam
 <code><img height="20" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/21_Angular_logo_logos-128.png"></code>
 <code><img height="20" src="https://cdn0.iconfinder.com/data/icons/logos-brands-in-colors/128/react_color-128.png"></code>
 <code><img height="20" src="https://cdn2.iconfinder.com/data/icons/amazon-aws-stencils/100/SDKs_copy_nodeJS-128.png"></code>
-<code><img height="20" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/181_Java_logo_logos-128.png></code>
-<code><img height="20" src="https://cdn2.iconfinder.com/data/icons/boxicons-logos/24/bxl-spring-boot-256.png></code>
+<code><img height="20" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/181_Java_logo_logos-128.png"></code>
+<code><img height="20" src="https://cdn2.iconfinder.com/data/icons/boxicons-logos/24/bxl-spring-boot-256.png"></code>
 <code><img height="20" src="https://cdn4.iconfinder.com/data/icons/logos-3/181/MySQL-128.png"></code>
 <code><img height="20" src="https://cdn4.iconfinder.com/data/icons/flat-brand-logo-2/512/oracle-128.png"></code>
 <code><img height="20" src="https://cdn4.iconfinder.com/data/icons/google-i-o-2016/512/google_firebase-2-128.png"></code>
