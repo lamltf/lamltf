@@ -45,54 +45,52 @@
                 color:#000000;
                 }
             </style>
-            <div class="container">
-                <div class="rm-flex rm-ai-center rm-jc-between">
+            <div class="container rm-flex rm-ai-center rm-jc-between">
+                <div>
                     <div>
                         <div>
-                            <div>
-                                <span class="rm-mr-1 rm-blue-dark">const</span>
-                                <span class="rm-mr-1 rm-blue-sky">myProfile</span>
-                                <span class="rm-mr-1 rm-white">=</span>
-                                <span class="rm-mr-1 rm-white">{</span>
-                            </div>
-                            <div class="rm-ml-3">
-                                <div>
-                                    <span class="rm-mr-1 rm-blue-sky">url:</span>
-                                    <span class="rm-blue-brown">
-                                        <a href="https://github.com/lamltf">'https://github.com/lamltf',</a>
-                                    </span>
-                                </div>
-                                <div>
-                                    <span class="rm-mr-1 rm-blue-sky">author:</span>
-                                    <span class="rm-blue-brown">
-                                        'Luong Tung Lam',
-                                    </span>
-                                </div>
-                                <div>
-                                    <span class="rm-mr-1 rm-blue-sky">company:</span>
-                                    <span class="rm-blue-brown">
-                                        'Telsoft .,JSC',
-                                    </span>
-                                </div>
-                                <div>
-                                    <span class="rm-mr-1 rm-blue-sky">position:</span>
-                                    <span class="rm-blue-brown">
-                                        'Developer',
-                                    </span>
-                                </div>
-                                <div>
-                                    <span class="rm-mr-1 rm-blue-sky">university:</span>
-                                    <span class="rm-blue-brown">
-                                        'Bach Khoa Aptech',
-                                    </span>
-                                </div>
-                            </div>
-                            <div class="rm-white">}</div>
+                            <span class="rm-mr-1 rm-blue-dark">const</span>
+                            <span class="rm-mr-1 rm-blue-sky">myProfile</span>
+                            <span class="rm-mr-1 rm-white">=</span>
+                            <span class="rm-mr-1 rm-white">{</span>
                         </div>
+                        <div class="rm-ml-3">
+                            <div>
+                                <span class="rm-mr-1 rm-blue-sky">url:</span>
+                                <span class="rm-blue-brown">
+                                    <a href="https://github.com/lamltf">'https://github.com/lamltf',</a>
+                                </span>
+                            </div>
+                            <div>
+                                <span class="rm-mr-1 rm-blue-sky">author:</span>
+                                <span class="rm-blue-brown">
+                                    'Luong Tung Lam',
+                                </span>
+                            </div>
+                            <div>
+                                <span class="rm-mr-1 rm-blue-sky">company:</span>
+                                <span class="rm-blue-brown">
+                                    'Telsoft .,JSC',
+                                </span>
+                            </div>
+                            <div>
+                                <span class="rm-mr-1 rm-blue-sky">position:</span>
+                                <span class="rm-blue-brown">
+                                    'Developer',
+                                </span>
+                            </div>
+                            <div>
+                                <span class="rm-mr-1 rm-blue-sky">university:</span>
+                                <span class="rm-blue-brown">
+                                    'Bach Khoa Aptech',
+                                </span>
+                            </div>
+                        </div>
+                        <div class="rm-white">}</div>
                     </div>
-                    <div>
-                        Ảnh nhé
-                    </div>
+                </div>
+                <div>
+                    Ảnh nhé
                 </div>
             </div>
         </div>
