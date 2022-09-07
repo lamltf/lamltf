@@ -2,6 +2,9 @@
 
 ### Hi there 👋
 
+<a href="https://www.facebook.com/lamlt810/">
+  <img align="left" alt="Lamlt's Facebook" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/facebook.png" />
+</a>
 <a href="https://www.instagram.com/gnoulaw/">
   <img align="left" alt="Lamlt's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
 </a>
