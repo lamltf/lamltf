@@ -1,0 +1,59 @@
+<svg fill="none" viewBox="0 0 1000 380" width="100%" height="100%" xmlns="http://www.w3.org/2000/svg">
+    <foreignObject width="100%" height="100%">
+        <div xmlns="http://www.w3.org/1999/xhtml">
+            <style>
+                .container {
+                font-family: system-ui,
+                -apple-system,
+                'Segoe UI',
+                Roboto,
+                Helvetica,
+                Arial,
+                sans-serif,
+                'Apple Color Emoji',
+                'Segoe UI Emoji';
+                width:100%;
+                height: 100%;
+                margin:0;
+                background: #333333;
+                }
+                .rm-flex {
+                display: flex;
+                }
+                .rm-ai-center{
+                align-items: center;
+                }
+                .rm-ml-3{
+                margin-left:2rem;
+                }
+                .rm-px-5{
+                padding: 0 4rem 0 4rem;
+                }
+                .rm-mr-1{
+                margin-right:0.5rem;
+                }
+                .rm-ml-1{
+                margin-left:0.15rem;
+                }
+                .rm-jc-between {
+                justify-content: space-between;
+                }
+                .rm-blue-dark{
+                color:#455f76;
+                }
+                .rm-blue-sky{
+                color:#a9bfd3;
+                }
+                .rm-brown{
+                color:#aa7b68;
+                }
+                .rm-white{
+                color:#ffffff;
+                }
+            </style>
+            <div class="container">
+               <div>Hi there 👋</div>
+            </div>
+        </div>
+    </foreignObject>
+</svg>
