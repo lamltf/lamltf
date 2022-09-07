@@ -9,7 +9,7 @@
   <img align="left" alt="Lamlt's Instagram" width="22px" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Instagram_colored_svg_1-128.png" />
 </a>
 <a href="https://discord.com/users/717742943028379698">
-  <img align="left" alt="Lamlt's Discord" width="22px" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Instagram_colored_svg_1-128.png" />
+  <img align="left" alt="Lamlt's Discord" width="22px" src="https://cdn3.iconfinder.com/data/icons/social-network-flat-3/100/Discord-128.png" />
 </a>
 <a href="https://www.linkedin.com/">
   <img align="left" alt="Lamlt's LinkedIN" width="22px" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-128.png" />
