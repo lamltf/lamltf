@@ -26,6 +26,9 @@
                 .rm-ml-3{
                 margin-left:2rem;
                 }
+                .rm-px-5{
+                padding: 0 4rem 0 4rem;
+                }
                 .rm-mr-1{
                 margin-right:0.5rem;
                 }
@@ -45,7 +48,7 @@
                 color:#000000;
                 }
             </style>
-            <div class="container rm-flex rm-ai-center rm-jc-between">
+            <div class="container rm-flex rm-ai-center rm-jc-between rm-px-5">
                 <div>
                     <div>
                         <div>
