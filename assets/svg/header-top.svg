@@ -33,7 +33,7 @@
                 margin-right:0.5rem;
                 }
                 .rm-ml-1{
-                margin-left:0.25rem;
+                margin-left:0.15rem;
                 }
                 .rm-jc-between {
                 justify-content: space-between;
