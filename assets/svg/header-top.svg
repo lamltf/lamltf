@@ -1,0 +1,91 @@
+<svg fill="none" viewBox="0 0 800 400" width="800" height="400" xmlns="http://www.w3.org/2000/svg">
+    <foreignObject width="100%" height="100%">
+        <div xmlns="http://www.w3.org/1999/xhtml">
+            <style>
+                .container {
+                font-family: system-ui,
+                -apple-system,
+                'Segoe UI',
+                Roboto,
+                Helvetica,
+                Arial,
+                sans-serif,
+                'Apple Color Emoji',
+                'Segoe UI Emoji';
+                display: flex;
+                flex-direction: column;
+                align-items: center;
+                justify-content: center;
+                margin: 0;
+                width: 100%;
+                height: 400px;
+                background: #333333
+                background-size: 600% 400%;
+                border-radius: 10px;
+                }
+                .rm-flex {
+                display: flex;
+                }
+                .rm-ai-center{
+                align-items: center;
+                }
+                .rm-ml-3{
+                margin-left:2rem;
+                }
+                .rm-mr-1{
+                margin-right:0.5rem;
+                }
+            </style>
+            <div class="container">
+                <div class="rm-flex rm-ai-center">
+                    <div>
+                        <div>
+                            <div>
+                                <span class="rm-mr-1">const</span>
+                                <span class="rm-mr-1">myProfile</span>
+                                <span class="rm-mr-1">=</span>
+                                <span class="rm-mr-1">{</span>
+                            </div>
+                            <div class="rm-ml-3">
+                                <div>
+                                    <span>url:</span>
+                                    <span>
+                                        <a href="https://github.com/lamltf">'https://github.com/lamltf',</a>
+                                    </span>
+                                </div>
+                                <div>
+                                    <span>author:</span>
+                                    <span>
+                                        'Luong Tung Lam',
+                                    </span>
+                                </div>
+                                <div>
+                                    <span>company:</span>
+                                    <span>
+                                        'Telsoft .,JSC',
+                                    </span>
+                                </div>
+                                <div>
+                                    <span>position:</span>
+                                    <span>
+                                        'Developer',
+                                    </span>
+                                </div>
+                                <div>
+                                    <span>university:</span>
+                                    <span>
+                                        'Bach Khoa Aptech',
+                                    </span>
+                                </div>
+                            </div>
+                            <div>}</div>
+                        </div>
+                    </div>
+                    <div>
+                        Ảnh nhé
+                    </div>
+                </div>
+            </div>
+        </div>
+    </foreignObject>
+</svg>
