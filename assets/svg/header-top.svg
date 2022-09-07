@@ -12,13 +12,9 @@
                 sans-serif,
                 'Apple Color Emoji',
                 'Segoe UI Emoji';
-                display: flex;
-                flex-direction: column;
-                align-items: center;
-                justify-content: center;
                 margin: 0;
                 width: 100%;
-                height: 400px;
+                height: 380px;
                 background: #333333;
                 background-size: 600% 400%;
                 border-radius: 10px;
@@ -33,7 +29,7 @@
                 margin-left:2rem;
                 }
                 .rm-mr-1{
-                margin-right:0.75rem;
+                margin-right:0.5rem;
                 }
                 .rm-jc-between {
                 justify-content: space-between;
@@ -63,31 +59,31 @@
                             </div>
                             <div class="rm-ml-3">
                                 <div>
-                                    <span class="rm-blue-sky">url:</span>
+                                    <span class="rm-mr-1 rm-blue-sky">url:</span>
                                     <span class="rm-blue-brown">
                                         <a href="https://github.com/lamltf">'https://github.com/lamltf',</a>
                                     </span>
                                 </div>
                                 <div>
-                                    <span class="rm-blue-sky">author:</span>
+                                    <span class="rm-mr-1 rm-blue-sky">author:</span>
                                     <span class="rm-blue-brown">
                                         'Luong Tung Lam',
                                     </span>
                                 </div>
                                 <div>
-                                    <span class="rm-blue-sky">company:</span>
+                                    <span class="rm-mr-1 rm-blue-sky">company:</span>
                                     <span class="rm-blue-brown">
                                         'Telsoft .,JSC',
                                     </span>
                                 </div>
                                 <div>
-                                    <span class="rm-blue-sky">position:</span>
+                                    <span class="rm-mr-1 rm-blue-sky">position:</span>
                                     <span class="rm-blue-brown">
                                         'Developer',
                                     </span>
                                 </div>
                                 <div>
-                                    <span class="rm-blue-sky">university:</span>
+                                    <span class="rm-mr-1 rm-blue-sky">university:</span>
                                     <span class="rm-blue-brown">
                                         'Bach Khoa Aptech',
                                     </span>
