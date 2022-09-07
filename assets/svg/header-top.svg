@@ -30,7 +30,7 @@
                 padding: 0 4rem 0 4rem;
                 }
                 .rm-mr-1{
-                margin-right:0.5rem;
+                margin-right:0.25rem;
                 }
                 .rm-ml-1{
                 margin-left:0.5rem;
