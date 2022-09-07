@@ -100,9 +100,9 @@
                         <div class="rm-white">}</div>
                     </div>
                 </div>
-                <div class="angular">
-                    <img src="https://github.com/lamltf/lamltf/blob/main/assets/images/angular.png" width="100%" />
-                </div>
+                <a href="/lamltf/blob/main/assets/images/angular.png">
+                    <img src="/lamltf/blob/main/assets/images/angular.png" width="50px" alt=""/>
+                </a>
             </div>
         </div>
     </foreignObject>
