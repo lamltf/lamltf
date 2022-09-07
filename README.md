@@ -4,6 +4,6 @@
 
 <br/>
 
-- 💼 any job work? do reach, [email](mailto:ltlam.bkap@gmail.com) :)
+- 💼 any job? do reach, [email](mailto:ltlam.bkap@gmail.com) :)
 - 💬 ask me about anything, i am happy to help;
 
