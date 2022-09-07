@@ -32,6 +32,9 @@
                 .rm-mr-1{
                 margin-right:0.5rem;
                 }
+                .rm-ml-1{
+                margin-left:0.5rem;
+                }
                 .rm-jc-between {
                 justify-content: space-between;
                 }
@@ -60,32 +63,37 @@
                         <div class="rm-ml-3">
                             <div>
                                 <span class="rm-mr-1 rm-blue-sky">url:</span>
-                                <span class="rm-blue-brown">
-                                    <a href="https://github.com/lamltf">'https://github.com/lamltf',</a>
+                                <span class="rm-brown">
+                                    <a href="https://github.com/lamltf">'https://github.com/lamltf'
+                                        <span class="rm-white rm-ml-1">,</span>
+                                    </a>
                                 </span>
                             </div>
                             <div>
                                 <span class="rm-mr-1 rm-blue-sky">author:</span>
-                                <span class="rm-blue-brown">
-                                    'Luong Tung Lam',
+                                <span class="rm-brown">
+                                    'Luong Tung Lam'
+                                    <span class="rm-white rm-ml-1">,</span>
                                 </span>
                             </div>
                             <div>
                                 <span class="rm-mr-1 rm-blue-sky">company:</span>
-                                <span class="rm-blue-brown">
-                                    'Telsoft .,JSC',
+                                <span class="rm-brown">
+                                    'Telsoft .,JSC'
+                                    <span class="rm-white rm-ml-1">,</span>
                                 </span>
                             </div>
                             <div>
                                 <span class="rm-mr-1 rm-blue-sky">position:</span>
-                                <span class="rm-blue-brown">
-                                    'Developer',
+                                <span class="rm-brown">
+                                    'Developer'
+                                    <span class="rm-white rm-ml-1">,</span>
                                 </span>
                             </div>
                             <div>
                                 <span class="rm-mr-1 rm-blue-sky">university:</span>
-                                <span class="rm-blue-brown">
-                                    'Bach Khoa Aptech',
+                                <span class="rm-brown">
+                                    'Bach Khoa Aptech'
                                 </span>
                             </div>
                         </div>
