@@ -1,3 +1,1 @@
-<div>
-    <img src="./assets/svg/header-top.svg" width="1000" height="380" alt="Luong Tung Lam">
-</div>
+<img src="./assets/svg/header-top.svg" align="center" alt="Luong Tung Lam">
