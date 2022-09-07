@@ -12,6 +12,7 @@
   <img align="left" alt="Lamlt's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 <br />
+
 hi, i'm [Lương Tùng Lâm](https://www.facebook.com/lamlt810), a passionate self-taught full stack web developer and a
 software engineer from Viet Nam
 
